@@ -1,0 +1,19 @@
+{
+  "name": "todo-api-redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sentry/node": "^8.17.0",
+    "@sentry/profiling-node": "^8.17.0",
+    "@sentry/tracing": "^7.114.0",
+    "express": "^4.19.2",
+    "redis": "^4.6.15"
+  }
+}
